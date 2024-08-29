@@ -6,11 +6,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
 .container{
   display: flex;
   height: 100vh;
@@ -20,22 +15,34 @@ body {
   color: white;
   width: 220px;
 }
-.img{
+.logo{
+  margin-left:55px;
+  margin-top:25px;
   width: 100px;
   height: 100px;
-  margin: 0px auto;
 }
 .icon{
-  margin-top: 20px;
+  margin-top: 35px;
   font-size: 70px;
   text-align: center;
 }
 .icon1{
   font-size: 70px;
 }
-h3{
+p{
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  margin-top: -5px;
+}
+.footer{
+  display: flex;
+  color: white;
+  font-size: 30px;
+  gap: 30px;
+  padding-top: 70px;
+  justify-content: center;
+  
 }
 .header{
   display: flex;
@@ -71,17 +78,37 @@ h3{
   color: white;
   margin-left: 50px;
 }
-.right-right{
+.span2{
   font-size: 25px;
+  float: right;
+
 }
-span{
+.span1{
   font-size: 60px;
+  float: right;
 }
-.rigth{
+.btn1{
+  border: none;
+  color: white;
+  background-color: rgb(252, 53, 53);
+  cursor: pointer;
+}
+.btn2{
+  border: none;
+  color: white;
+  background-color: rgb(158, 6, 158);
+  cursor: pointer;
+}
+.btn3{
+  border: none;
+  color: white;
+  background-color: rgb(96, 245, 67);
+  cursor: pointer;
+}
+.right{
   flex-grow: 1;
   padding: 20px;
   margin-left: 0px;
-
 }
 .head{
   background-color: rgb(114, 55, 250);
@@ -101,7 +128,7 @@ span{
   font-size: 70px;
   text-align: center;
 }
-.head1,.head2,.head3{
+.head1,.head2,.head3,.head4{
   text-align: center;
   margin-top: 15px;
   margin-top: 15px;
@@ -119,6 +146,9 @@ span{
 }
 .head3{
   margin-left: 50px;
+}
+.head4{
+  margin-left: 603px;
 }
 .name{
   font-size: 20px;
