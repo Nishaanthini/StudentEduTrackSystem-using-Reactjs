@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StudentEduTrackSystem-using-Reactjs/static/css/main.4968302d.css",
+    "main.js": "/StudentEduTrackSystem-using-Reactjs/static/js/main.857c5f69.js",
+    "static/media/logo.webp": "/StudentEduTrackSystem-using-Reactjs/static/media/logo.b3a8b221dddecb4b2d2b.webp",
+    "index.html": "/StudentEduTrackSystem-using-Reactjs/index.html",
+    "main.4968302d.css.map": "/StudentEduTrackSystem-using-Reactjs/static/css/main.4968302d.css.map",
+    "main.857c5f69.js.map": "/StudentEduTrackSystem-using-Reactjs/static/js/main.857c5f69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4968302d.css",
+    "static/js/main.857c5f69.js"
+  ]
+}
